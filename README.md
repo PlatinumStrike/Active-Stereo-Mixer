@@ -8,7 +8,7 @@ Instead of purchasing a very expensive reciever to solve this, I decided to crea
 # Images
 
 ![Constructed PCB](images/pcb.jpeg)
-![Scematic](images/schematic.jpeg)
+![Scematic](images/schematics.jpg)
 
 # Technical Details
 
