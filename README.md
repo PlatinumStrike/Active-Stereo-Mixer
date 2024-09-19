@@ -17,8 +17,8 @@ This project is a stereo channel, four input signal summer and amplifier. In inc
 
 ## Programs Used
 
-1. [LTSPICE](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) 8.2.12
-2. [KiCad](https://www.kicad.org/) 10.4.32-MariaDB
+1. [LTSPICE](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) 24.0.9
+2. [KiCad](https://www.kicad.org/) 8.0
 
 ## ICs Used
 
