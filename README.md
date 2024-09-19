@@ -9,7 +9,6 @@ Instead of purchasing a very expensive reciever to solve this, I decided to crea
 
 ![Constructed PCB](images/board.png)
 ![Scematic](images/schematics.png)
-![Dashboard Page](images/dashboard.png)
 
 # Technical Details
 
